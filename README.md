@@ -1,8 +1,8 @@
 #totalitycrop-frontend-challenge
 
 *important note:
-=>USE THIS LINK TO VISIST LANDING PAGE:https://totalitycorp-frontend-challenge-zeta.vercel.app/
-=>USE THIS LINK TO VISIT HOME PAGE:https://totalitycorp-frontend-challenge-zeta.vercel.app/home
+=>USE THIS LINK TO VISIST LANDING PAGE:https://totalitycorp-frontend-challenge-qixv.vercel.app
+=>USE THIS LINK TO VISIT HOME PAGE:https://totalitycorp-frontend-challenge-qixv.vercel.app/home
 
 *APPROACH:
 
